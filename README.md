@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there! My namw is Abdiel Rivera
+
+Hi, I'm Abdiel Rivera 👋
+
+💻 Junior Web Developer  
+🎓 Software Development Student at Universidad Tecnológica de Panamá 🇵🇦
+
+I am passionate about web development and building systems using HTML, CSS, JavaScript and PHP.
+
+Currently learning more about backend development, databases and web applications.
 
 <!--
 **abd-rivera/abd-rivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
