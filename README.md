@@ -1,4 +1,4 @@
-## Hi there! My namw is Abdiel Rivera
+## Hi there! My name is Abdiel Rivera
 
 Hi, I'm Abdiel Rivera 👋
 
