@@ -1,6 +1,5 @@
 ## Hi there! My name is Abdiel Rivera
 
-Hi, I'm Abdiel Rivera 👋
 
 💻 Junior Web Developer  
 🎓 Software Development Student at Universidad Tecnológica de Panamá 🇵🇦
