@@ -4,9 +4,9 @@
 💻 Junior Web Developer  
 🎓 Software Development Student at Universidad Tecnológica de Panamá 🇵🇦
 
-I am passionate about web development and building systems using HTML, CSS, JavaScript and PHP.
+I'm passionate about technology, data analysis, and building solutions that turn information into meaningful insights.
 
-Currently learning more about backend development, databases and web applications.
+Currently focusing on developing my skills in Data Analytics, Python, SQL, and Business Intelligence.
 
 <!--
 **abd-rivera/abd-rivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
